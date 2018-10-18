@@ -1,0 +1,2 @@
+# kalok
+projekt na zajecia
